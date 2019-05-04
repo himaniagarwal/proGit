@@ -1,0 +1,7 @@
+Hi, I am created to test reflog functionality
+
+to check reflog:
+git reflog show
+
+to checkout to previous version:
+git reset --hard reflogSHA
